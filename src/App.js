@@ -95,7 +95,7 @@ class App extends Component {
         justifyContent: 'space-between',
         alignItems: 'baseline',
         width: '70%',
-        height: '250px'
+        height: '13rem'
       }
     };
     return (
@@ -155,7 +155,7 @@ class App extends Component {
                 <img              
                   src={paypal}
                   alt="paypal"
-                  width = '50%'
+                  width = '60%'
                 />             
               </div>
           </div>
